@@ -1,0 +1,7 @@
+{
+  "name": "recuperacaoIMC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
